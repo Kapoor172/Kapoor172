@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sumit.
+- 👋 Hi, I’m Scout!
 - 👀 I’m interested in Developing & Collaborating with different projects.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any crypto Project.
